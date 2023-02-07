@@ -46,17 +46,17 @@ Just paste the following URL in your profile readme and you are good to go.
 **Pass your `username` in the URL**
 
 ```md
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Noman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nomanghayyur&theme=github-compact)](https://github.com/nomanghayyur/github-readme-activity-graph)
 ```
 
 ### [Attention ⚠](#Deploy-on-your-own-heroku-instance)
 
 ## Use themes
 
-_`username=ashutosh00710&theme=theme_name`_
+_`username=nomanghayyur&theme=theme_name`_
 
 ```md
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Noman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nomanghayyur&theme=dracula)](https://github.com/nomanghayyur/github-readme-activity-graph)
 ```
 
 [Manual Customization](#customization) is also available
@@ -77,7 +77,7 @@ _`username=ashutosh00710&theme=theme_name`_
 |      **tokyo-night**       |  <img src="./asset/tokyo-night.png" height=250 alt="graph"/>  |
 |     **high-contrast**      | <img src="./asset/high-contrast.png" height=250 alt="graph"/> |
 
-For more themes click [here](https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md)
+For more themes click [here](https://github.com/nomanghayyur/github-readme-activity-graph/blob/main/THEMES.md)
 
 ## Customization
 
