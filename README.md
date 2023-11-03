@@ -47,7 +47,7 @@ Just paste the following URL in your profile readme and you are good to go.
 **Pass your `username` in the URL**
 
 ```md
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomanghayyur)](https://github.com/nomanghayyur/github-readme-activity-graph)
+[![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomanghayyur)](https://github.com/nomanghayyur/github-readme-activity-graph)
 ```
 
 ### [Attention ⚠](#Deploy-on-your-own-heroku-instance)
@@ -57,7 +57,7 @@ Just paste the following URL in your profile readme and you are good to go.
 _`username=nomanghayyur&theme=theme_name`_
 
 ```md
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomanghayyur&theme=dracula)](https://github.com/nomanghayyur/github-readme-activity-graph)
+[![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomanghayyur&theme=dracula)](https://github.com/nomanghayyur/github-readme-activity-graph)
 ```
 
 [Manual Customization](#customization) is also available
@@ -109,13 +109,13 @@ Example:
 **`custom_title=This%20is%20a%20title`**
 
 ```md
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomanghayyur&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/nomanghayyur/github-readme-activity-graph)
+[![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomanghayyur&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/nomanghayyur/github-readme-activity-graph)
 ```
 
 **Example:**
 
 ```md
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomanghayyur&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/nomanghayyur/github-readme-activity-graph)
+[![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomanghayyur&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/nomanghayyur/github-readme-activity-graph)
 ```
 
 ## Deploy on your own Replit instance
